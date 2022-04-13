@@ -1048,7 +1048,6 @@
     <Content Include="Theme\plugins\bower_components\sidebar-nav\README.md" />
     <Content Include="Views\Shared\MyLayout.cshtml" />
     <Content Include="Views\Admin\Dashboard.cshtml" />
-    <Content Include="Views\Admin\Profile.cshtml" />
     <Content Include="Views\Shared\MyLayout2.cshtml" />
     <Content Include="Views\Admin\Ratio.cshtml" />
     <Content Include="Views\Shared\MyLayout3.cshtml" />
