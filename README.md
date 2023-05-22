@@ -8,3 +8,5 @@
 # Feature
 - After creating account Email will send to the User with user name and Password .
 - Teacher can upload Video tutorial , Files(PDF,WORD).
+- Authentication 
+- Authorization 
